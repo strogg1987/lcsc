@@ -1,0 +1,2 @@
+#DESCRIPTION
+A simple search in the LCSC catalog by part number or manufacturer's part number. Written solely for myself, to make it easier to fill in the BOM when you need to order from other suppliers
